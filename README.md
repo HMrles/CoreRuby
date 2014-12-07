@@ -1,0 +1,4 @@
+CoreRuby
+========
+
+Introducción a Ruby :)
